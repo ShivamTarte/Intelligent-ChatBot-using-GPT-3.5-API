@@ -1,6 +1,6 @@
 # Intelligent Chatbot with Context Retention and Human-like Responses
 
-Welcome to our Intelligent Chatbot project! This chatbot is designed to retain context from previous chats, allowing it to answer related questions and maintain a smooth conversational flow effectively. With error handling in place, the chatbot aims to provide human-like responses and ensure a delightful user experience.
+Welcome to my Intelligent Chatbot project! This chatbot is designed to retain context from previous chats, allowing it to answer related questions and maintain a smooth conversational flow effectively. With error handling in place, the chatbot aims to provide human-like responses and ensure a delightful user experience.
 
 ## Table of Contents
 - [Introduction](#introduction)
